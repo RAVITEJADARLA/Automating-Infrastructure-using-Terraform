@@ -3,4 +3,4 @@
 terraform.tfstate
 terraform.tfstate.backup
 .terraform.tfstate.lock.info
-demo-key.pem
+project_access_key.pem
